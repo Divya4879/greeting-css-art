@@ -1,6 +1,6 @@
 # A winter themed greeting
 
-Created for the Dev.to Frontend Challenge
+Created for the Dev.to Frontend Challenge- CSS Glam
 ## Live Link
 
 Live link - https://divya4879.github.io/greeting-css-art
@@ -9,5 +9,6 @@ You can play around with this code here:- https://codepen.io/divya-2002/pen/pvzP
 
 ## A little preview:-
 
-![Screenshot 2024-12-22 191537](https://github.com/user-attachments/assets/7e38e759-6c1f-48f1-8f29-ae67d131186d)
+![image](https://github.com/user-attachments/assets/d7eb75a7-41be-4434-8613-aa3c587ab2bc)
+
 
