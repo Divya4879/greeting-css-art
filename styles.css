@@ -31,7 +31,6 @@ body, html {
     position: absolute;
     bottom: 80px;
     left: 100px;
-    
 }
 
 .face {
@@ -40,10 +39,8 @@ body, html {
     height: 80px;
     background-color: #ffd5c8;
     border-radius: 40px 40px 32px 32px;
-    
 }
 
-/* Hair Styles */
 .hair {
     position: absolute;
     width: 100%;
@@ -213,8 +210,6 @@ body, html {
     right: 13px;
 }
 
-
-
 .girl .body {
     width: 80px;
     height: 100px;
@@ -262,8 +257,6 @@ body, html {
   z-index: 1;
 }
 
-
-
  @keyframes waveArm {
     0%, 100% { transform: rotate(0); }
     50% { transform: rotate(-75deg); }
@@ -297,9 +290,6 @@ body, html {
     background-color: #000c94;
     border-radius: 10px 10px 10px 10px;
  }
-
-
-
 
 .snowman {
     position: relative;
@@ -396,12 +386,11 @@ body, html {
     height: 10px;
     background-color: white;
     border-radius: 50%;
-    pointer-events: none; /* Make snowflakes not interact with mouse */
-    z-index: 0; /* Ensure snowflakes are above card content */
+    pointer-events: none; 
+    z-index: 0; 
     animation: snowfall 6s linear infinite;
   }
 
-  /* Create individual snowflakes with staggered animation */
   .snowflake:nth-child(1) {
     left: 10%;
     animation-delay: 0s;
