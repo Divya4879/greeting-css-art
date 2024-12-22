@@ -11,7 +11,7 @@ body, html {
 
 h2 {
     position:absolute;
-    top:5%;
+    top:2%;
     font-size:40px;
     left:5%;
     right:5%;
@@ -67,7 +67,7 @@ h2 {
     height: 67px;
     background-color: #6b4423;
     border-radius: 30%;
-    top: 16px;
+    top: 12px;
     z-index: 1;
 }
 
@@ -306,7 +306,7 @@ h2 {
 
 .snowman {
     position: relative;
-    bottom: 20px;
+    bottom: 10px;
     right:-200px;
 }
 
@@ -329,6 +329,29 @@ h2 {
     bottom: 70px;
     left: -30px;
 }
+.hat{
+  color:red;
+  width:50px;
+  height:30px;
+  position:absolute;
+  top:-20px;
+  left:2px;
+  border-radius:30%;
+  border-top-left-radius:100%;
+  border-top-right-radius:100%;
+  z-index:22;
+  background-color:red;
+}
+.hat-ball{
+  position:relative;
+  background-color:pink;
+  width:20px;
+  height:20px;
+  border-radius:50%;
+  top:-10px;
+  left:15px;
+}
+
 
 .snowman .eye {
     width: 8px;
