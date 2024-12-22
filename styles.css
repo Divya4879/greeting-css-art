@@ -4,8 +4,21 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #e0f7ff;
+    background:linear-gradient(rgb(14, 14, 239),skyblue,darkblue,lightblue);
     overflow: hidden;
+    text-align: center;
+}
+
+h2 {
+    position:absolute;
+    top:5%;
+    font-size:40px;
+    left:5%;
+    right:5%;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    color:rgb(6, 6, 107);
+    text-shadow: 3px 2px 3px rgb(109, 192, 243);
 }
 
 .scene {
