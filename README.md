@@ -9,6 +9,4 @@ You can play around with this code here:- https://codepen.io/divya-2002/pen/pvzP
 
 ## A little preview:-
 
-![image](https://github.com/user-attachments/assets/d7eb75a7-41be-4434-8613-aa3c587ab2bc)
-
-
+https://github.com/user-attachments/assets/5ada92b0-f903-4b3a-bbb5-c6267d10cc1c
